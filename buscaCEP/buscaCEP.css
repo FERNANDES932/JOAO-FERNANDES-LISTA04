@@ -1,1 +1,8 @@
-AAA
+body { font-family: Arial, sans-serif; margin: 20px; }
+
+input, button { width: 100%; padding: 10px; margin-bottom: 15px; box-sizing: border-box; font-size: 14px; }
+
+button { cursor: pointer; }
+
+.erro { color: #c00; }
+ 

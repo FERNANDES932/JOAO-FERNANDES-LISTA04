@@ -1,0 +1,14 @@
+body { font-family: serif; margin: 20px; }
+select { width: 100%; padding: 10px; font-size: 14px; margin: 5px 0 10px; box-sizing: border-box; }
+.titulo-post {
+  background: #eee;
+  border: 1px solid #ccc;
+  padding: 2px 4px;
+  margin-bottom: 2px;
+  cursor: pointer;
+}
+.titulo-post:hover { background: #e0e0e0; }
+.titulo-post.selecionado { background: #d4d4d4; }
+.detalhes { padding: 10px 0 15px; }
+.detalhes h3 { margin: 5px 0 15px; }
+.comentarios p { margin: 4px 0 4px 20px; font-size: 13px; }
